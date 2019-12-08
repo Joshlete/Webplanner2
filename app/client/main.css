@@ -3,6 +3,7 @@ body {
   background-size: cover;
 }
 
+
 .leftpane {
   margin: 40px 40px;
   width: 40%;
@@ -12,7 +13,7 @@ body {
 
 ul {
   position: relative;
-  top: 40px;
+  top: 4px;
   list-style-type: none;
   display: block;
 }
@@ -21,3 +22,12 @@ li {
   width: 100%;
   margin: 5px;
 }
+
+h2 {
+  margin: 5px;
+}
+
+a {
+  margin-right: 5px;
+}
+
